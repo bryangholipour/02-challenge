@@ -18,13 +18,13 @@ img:hover{
 #aboutme{
     padding: 10px;
     height: 300px;
-    display:contents
+    display:contents;
 }
 #name{
     box-shadow: 5px 5px 5px 5px rgb(225, 218, 245);
     transition: all 1s ease;
 }
-#work{
+/* #work{ */
     /* padding-left: 20px; */
     /* height:600px; */
     /* display:contents; */
